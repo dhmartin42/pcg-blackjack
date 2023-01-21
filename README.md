@@ -1,6 +1,6 @@
 # pcg-blackjack
 Blackjack game from Rice University's python course, modified to use python Arcade
 
-Original code from code skulptor
+Original code from code skulptor: http://www.codeskulptor.org/#user38_Gdo27PDkFP_4.py 
 
-http://www.codeskulptor.org/#user38_Gdo27PDkFP_4.py  blackjack
+Status: incomplete, as of yet. 
