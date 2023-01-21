@@ -1,2 +1,2 @@
 # pcg-blackjack
-Balckjack game from python course I took, modified to work using arcade
+Blackjack game from Rice University's python course, modified to use python Arcade
