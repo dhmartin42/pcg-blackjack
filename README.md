@@ -3,4 +3,4 @@ Blackjack game from Rice University's python course, modified to use python Arca
 
 Original code from code skulptor: http://www.codeskulptor.org/#user38_Gdo27PDkFP_4.py 
 
-Status: incomplete, as of yet. 
+Status: incomplete.  Arcade framework for GUI constructed.
